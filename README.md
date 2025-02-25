@@ -1,17 +1,25 @@
 # Hi, I'm Lisa Mechaly 👋
 
-I am a **Master's student in Information Systems** at **Haifa University**, with a strong academic background in **Statistics and Data Science** from the **Hebrew University of Jerusalem**. I am passionate about leveraging data to solve complex problems, and I am actively seeking a position as a **Data Analyst**.
+I am a **Data Analyst** with a strong academic background in **Statistics and Data Science** from the **Hebrew University of Jerusalem**. I am passionate about leveraging data to solve complex problems and extract meaningful insights. My expertise spans **data wrangling, statistical modeling, machine learning, and visualization**, and I am always eager to explore innovative approaches to data-driven decision-making.
 
 ### Skills:
-- **Programming Languages**: Python, SQL, R
-- **Data Analysis & Visualization**: Power BI, Jupyter Notebook, DataBricks, Excel
-- **Machine Learning**: Hands-on experience in applying models for predictive analysis
-- **Languages**: Fluent in English, French (native), Hebrew
+- **Programming Languages**: Python, SQL, Java, R , JavaScript
+- **Data Analysis & Visualization**: R, Jupyter Notebook, DataBricks, Excel  
+- **Machine Learning**: Predictive modeling, statistical analysis  
+- **Cloud Technologies**: Google Cloud (BigQuery)  
+- **Soft Skills**: Adaptability, problem-solving, fast learning  
 
 ### Experience:
-- **Pharmacy Assistant** (Paris, 2021): Optimized inventory management and improved waste reduction by 12%.
-- **Technical Quartermaster, Iron Dome Unit** (IDF, 2019-2021): Managed the logistics of technical equipment during nationwide alerts.
-- **Volunteer Work**: "Big Sister" for Lone Soldiers, offering emotional support and practical guidance based on my own experiences.
+- **Private Math & Statistics Tutor** *(Hebrew University, 2023 – Present)*  
+  Provided personalized tutoring for reservist students, focusing on foundational concepts and advanced problem-solving techniques.  
+- **Technical Quartermaster, Iron Dome Unit** *(IDF, 2019-2021)*  
+  Managed logistics and maintenance of technical equipment during nationwide alerts.  
+- **Volunteer Work**: **"Big Sister" for Lone Soldiers** *(Ach Gadol Association, 2022-2024)*  
+  Offered emotional and practical support to new soldiers integrating into Israeli society.  
+
+### Connect with Me:
+📌 **GitHub**: [github.com/lisabensoussan](https://github.com/lisabensoussan)  
+📌 **LinkedIn**: [linkedin.com/in/lisa-mechaly-932409261](http://www.linkedin.com/in/lisa-mechaly-932409261)  
 
 ---
 
