@@ -3,7 +3,7 @@
 I am a **Data Analyst** with a strong academic background in **Statistics and Data Science** from the **Hebrew University of Jerusalem**. I am passionate about leveraging data to solve complex problems and extract meaningful insights. My expertise spans **data wrangling, statistical modeling, machine learning, and visualization**, and I am always eager to explore innovative approaches to data-driven decision-making.
 
 ### Skills:
-- **Programming Languages**: Python, SQL, Java, R , JavaScript
+- **Programming Languages**: Python, SQL, Java, R 
 - **Data Analysis & Visualization**: R, Jupyter Notebook, DataBricks, Excel  
 - **Machine Learning**: Predictive modeling, statistical analysis  
 - **Cloud Technologies**: Google Cloud (BigQuery)  
